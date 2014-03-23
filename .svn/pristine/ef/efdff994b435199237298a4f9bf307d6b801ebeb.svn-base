@@ -1,0 +1,51 @@
+﻿<Window x:Class="ChatBubbles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ChatBubbles" Height="774.023" Width="500
+        "
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"        
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:local="clr-namespace:ChatBubbles"
+        mc:Ignorable="d" d:DesignWidth="480"
+        d:DataContext="{d:DesignData Source=MessageCollectionDesignTime.xml}"
+        FontFamily="Verdana"
+        FontSize="12"
+        Foreground="White" Background="Black" WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen"
+        >
+
+    <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0" VerticalAlignment="Stretch">
+        <Grid local:GridUtils.RowDefinitions=",Auto">
+
+            <ScrollViewer x:Name="ConversationScrollViewer" VerticalScrollBarVisibility="Hidden">
+                <StackPanel Orientation="Vertical"
+                      x:Name="ConversationContentContainer"
+                      VerticalAlignment="Top">
+                    <local:ConversationView x:Name="conversationView"/>
+                </StackPanel>
+            </ScrollViewer>
+
+            <Grid Grid.Row="1"
+              local:GridUtils.RowDefinitions=",,"
+              Margin="0,10,0,0">
+                <Rectangle Fill="White"
+                    Grid.RowSpan="2"/>
+                <TextBox Text=""
+                    TextWrapping="Wrap"
+                    AcceptsReturn="True"
+                    Padding="0"
+                    Height="40"
+                    BorderThickness="0"
+                    x:Name="TextInput" RenderTransformOrigin="0.5,1.588" TextChanged="TextInput_TextChanged"
+                    GotFocus="TextInput_GotFocus"
+                    LostFocus="TextInput_LostFocus" 
+                    PreviewKeyDown="TextInput_PreviewKeyDown"/>
+                <Path Data="m 0,0 l 16,0 l 0,16 l -16,-16"
+                Fill="White"
+                Margin="0,0,5,0"
+                HorizontalAlignment="Right"
+                Grid.Row="2"/>
+            </Grid>
+        </Grid>
+
+    </Grid>
+</Window>

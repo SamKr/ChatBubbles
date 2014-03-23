@@ -1,0 +1,51 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+
+namespace ChatBubbles
+{
+    public class MessageTemplateSelector : DataTemplateSelector
+    {
+        // Template A: You over me
+        // Template B: Me over you
+        // Template C: You over you
+        // Templace D: Me over me
+
+        public DataTemplate A { get; set; }
+        public DataTemplate B { get; set; }
+        public DataTemplate C { get; set; }
+        public DataTemplate D { get; set; }
+
+        public override DataTemplate SelectTemplate(object item, DependencyObject container)
+        {
+            var message = item as Message;
+
+            if (message.Side == MessageSide.Me)
+            {
+                if (message.PrevSide == MessageSide.You)
+                {
+                    return A;
+                }
+                else
+                {
+                    return D;
+                }
+            }
+            else
+            {
+                if (message.PrevSide == MessageSide.You)
+                {
+                    return C;
+                }
+                else
+                {
+                    return B;
+                }
+            }
+        }
+    }
+}

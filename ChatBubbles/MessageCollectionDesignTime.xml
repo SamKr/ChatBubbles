@@ -1,0 +1,14 @@
+﻿<MessageCollection xmlns="clr-namespace:ChatBubbles">
+  <Message Text="Hi, How are you?" Side="You"/>
+  <Message Text="Pretty good thanks. How are things at your end?" Side="Me"/>
+  <Message Text="The weather here is a bit grim" Side="Me"/>
+  <Message Text="Aye, not bad here, a bit of sun" Side="You"/>
+  <Message Text="Do you want to hear a joke?" Side="You"/>
+  <Message Text="Go on then" Side="Me"/>
+  <Message Text="Knock knock" Side="You"/>
+  <Message Text="Who's there?" Side="Me"/>
+  <Message Text="Doctor!" Side="You"/>
+  <Message Text="Doctor who?" Side="Me"/>
+  <Message Text="Doctor Who ... ha ha ROFLMAO" Side="You"/>
+  <Message Text="genius. Pure genius" Side="Me"/>
+</MessageCollection>

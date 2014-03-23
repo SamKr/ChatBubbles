@@ -1,0 +1,50 @@
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\bin\Debug\ChatBubbles.exe.config
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\bin\Debug\ChatBubbles.exe
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\bin\Debug\ChatBubbles.pdb
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.csprojResolveAssemblyReference.cache
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ConversationView.g.cs
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\MainWindow.g.cs
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\App.g.cs
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles_MarkupCompile.cache
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles_MarkupCompile.lref
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ConversationView.baml
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\MainWindow.baml
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.g.resources
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.Properties.Resources.resources
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.csproj.GenerateResource.Cache
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.exe
+C:\Users\Skraaijv\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.pdb
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\bin\Debug\ChatBubbles.exe.config
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\bin\Debug\ChatBubbles.exe
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\bin\Debug\ChatBubbles.pdb
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ConversationView.g.cs
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\App.g.cs
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles_MarkupCompile.cache
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles_MarkupCompile.lref
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ConversationView.baml
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\MainWindow.baml
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.g.resources
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.Properties.Resources.resources
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.exe
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.pdb
+C:\Users\Sam\Documents\Copy\Scriptie\Various\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\bin\Debug\ChatBubbles.exe.config
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.exe
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.pdb
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\obj\Debug\ConversationView.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\obj\Debug\App.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles_MarkupCompile.cache
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles_MarkupCompile.lref
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\obj\Debug\MainWindow.baml
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\bin\Debug\ChatBubbles.exe
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\bin\Debug\ChatBubbles.pdb
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\obj\Debug\ConversationView.baml
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.g.resources
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.Properties.Resources.resources
+C:\Users\Sam\Documents\Visual Studio 2013\Projects\ChatBubbles\ChatBubbles\obj\Debug\ChatBubbles.csproj.GenerateResource.Cache
